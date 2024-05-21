@@ -1,5 +1,3 @@
-import { Fileira } from "./types";
-
 
 export function create(size = 5) {
   return [...new Array(size)];
